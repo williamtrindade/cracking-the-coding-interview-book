@@ -3,7 +3,7 @@
 ___
 ### Data Structures
 #### Cap. 1: Arrays and Strings
-- [ ] 1.1 Is Unique
+- [x] 1.1 Is Unique
 - [ ] 1.2 Check Permutation
 - [ ] 1.3 URLify
 - [ ] 1.4 Palindrome Permutation
